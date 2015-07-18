@@ -1,0 +1,12 @@
+#front-popup { display:none; width: 27%; height: 20%; margin-left: 8%; margin-top: -20%; position: absolute; background-color: rgba(89, 79, 79, 0.8); padding: 40px 4px 90px 26px; border-radius: 20px; }
+#popupupdate { position:absolute; left:55%; top:3%; margin-left:-117px; font-family:'Raleway',sans-serif; }
+img#close { float: right; left: 100px; top: -34px; height: 24px; }
+#h4, #emi, #tipay, #totpay { color: #000; text-align:Center; font-size: 17px;   margin-bottom: 7px;}
+input[type="text"], select { color: #626262; border-radius: 4px;background-color: #EFEFEF; }
+#interest_rate { width:185px; } 
+#calc_button{ color: #000; background-color: #CDCDCD; padding: 8px 13px; border-radius: 4px; margin-right: 95px; margin-top:10px;}
+.emi-form { margin-left: 112px; }
+#calc-header { text-align: center; }
+#calc_result { border-radius: 9px; width: 196px; background-color: #ECECEC; }
+#summary p{ text-align: Center; color: #020000; font-size: 16px; font-family: bold;}
+
