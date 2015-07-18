@@ -1,7 +1,7 @@
 ﻿=== Emi_Calc ===
 Contributors: Rqubes
 Plugin Name: Emi_Calc
-Plugin URl: http://rqubes.com/emi_calculator/
+Plugin URl: https://wordpress.org/plugins/emi-calc/
 Tags: Emi calculator, emi, calculator, Emi_Calc
 Author URl: www.rqubes.com
 Author: Rqubes
