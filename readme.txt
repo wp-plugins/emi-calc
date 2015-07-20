@@ -2,18 +2,18 @@
 Contributors: Rqubes
 Plugin Name: Emi_Calc
 Plugin URl: https://wordpress.org/plugins/emi-calc/
-Tags: Emi calculator, emi, calculator, Emi_Calc
+Tags: EMI calculator, EMI, Loan calculator, Emi_Calc, Equated Monthly Installment, Loan EMI
 Author URl: www.rqubes.com
 Author: Rqubes
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 1.0
 
-Emi Calc plugin is make easy to calculate emi of bank and manage bank and bank rates easily.
+EMI Calc plugin makes it easy to calculate EMI of bank and manage bank rates easily.
 
 == Description ==
 
-Emi Calc plugin is make easy to calculate emi of bank and manage bank and bank rates easily.You can add banks, change there rates, delete banks. All this chnages are managed through easy dashboard at bacend. All calculations will be shown as per rate saved.
+EMI Calc plugin make its easy to calculate EMI of bank and manage bank rates easily.You can add banks as per your need, change their interest rates, delete banks. All these changes are managed through easy dashboard at backend. All calculations will be peformed as per bank rates saved.
 
 
 == Installation ==
@@ -23,13 +23,13 @@ This section describes how to install the plugin and get it working.
 e.g.
 
 
-01. click on add new plugins and click on 'upload plugins' button.
+1. Click on add new plugins and click on 'upload plugins' button.
 
-02. click on 'choose file' button and select compress file of Emi calculator and then click on 'install now' button.
+2. Click on 'choose file' button and select compress file of EMI calculator and then click on 'install now' button.
 
-03. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Activate the plugin through the 'Plugins' menu in WordPress.
 
-04. Now use the given Shortcode in your page or widget.
+4. Now use the given Shortcode in your page or widget.
                                     
 
 Or 
@@ -39,15 +39,18 @@ Or
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place [Bank_EMI_calc][/Bank_EMI_calc] in your Widget or Template page.
 
+
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= What is EMI ? =
 
-An answer to that question.
+Equated Monthly Installment (EMI) which a bank charges on a Loan Given 
 
-= What about foo bar? =
 
-Answer to foo bar dilemma.
+= How is the EMI Calculated ? =
+
+EMI is calculated not on reducing interest rate but on Fixed interest rate.
+
 
 == Screenshots ==
 
@@ -94,6 +97,6 @@ Titles are optional, naturally.
             "Markdown is what the parser uses to process much of the readme file"
 
 Markdown uses email style notation for blockquotes and I've been told:
-> Asterisks for *emphasis*. Double it up  for **strong**.
+> Asterisks for *emphasis*. Double it up  for **strong**.s
 
 `<?php code(); // goes in backticks ?>`
