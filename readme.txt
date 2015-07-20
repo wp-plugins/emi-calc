@@ -12,10 +12,12 @@ Stable tag: 1.0
 EMI Calc plugin makes it easy to calculate EMI of bank and manage bank rates easily.
 
 == Description ==
+
 EMI Calc plugin make its easy to calculate EMI of bank and manage bank rates easily.You can add banks as per your need, change their interest rates, delete banks. All these changes are managed through easy dashboard at backend. All calculations will be peformed as per bank rates saved.
 
 
 == Installation ==
+
 This section describes how to install the plugin and get it working.
 
 e.g.
